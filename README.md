@@ -1,3 +1,4 @@
+
 # Event Management System (Tkinter + SQLite)
 
 ## Overview
@@ -23,3 +24,4 @@ Features:
 
 ## How to run (local)
 1. Clone the repo:
+
